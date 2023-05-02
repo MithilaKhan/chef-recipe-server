@@ -1,0 +1,181 @@
+[
+   {
+      "id": 1,
+      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_name": "Julia Child",
+      "years_of_experience": 30,
+      "number_of_recipes": 200,
+      "likes": 5000,
+      "description": "Julia Child was an American chef, author, and television personality. She is recognized for bringing French cuisine to the American public with her cookbook 'Mastering the Art of French Cooking' and her TV show 'The French Chef'.",
+      "recipes": [
+      {
+      "name": "Beef Bourguignon",
+      "ingredients": ["beef", "red wine", "onions", "carrots", "mushrooms"],
+      "cooking_method": "braising",
+      "rating": 4.5
+      },
+      {
+      "name": "Coq au Vin",
+      "ingredients": ["chicken", "red wine", "bacon", "onions", "carrots"],
+      "cooking_method": "braising",
+      "rating": 4.7
+      },
+      {
+         "name": "Beef Wellington",
+         "ingredients": ["beef tenderloin", "mushrooms", "puff pastry", "prosciutto", "egg wash"],
+         "cooking_method": "baking",
+         "rating": 4.8
+         }
+      ]
+      },
+      
+      {
+      "id": 2,
+      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_name": "Gordon Ramsay",
+      "years_of_experience": 25,
+      "number_of_recipes": 150,
+      "likes": 8000,
+      "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has been awarded a total of 16 Michelin stars throughout his career and is known for his fiery personality on TV shows such as 'Hell's Kitchen' and 'MasterChef'.",
+      "recipes": [
+      {
+      "name": "Beef Wellington",
+      "ingredients": ["beef tenderloin", "mushrooms", "puff pastry", "prosciutto", "egg wash"],
+      "cooking_method": "baking",
+      "rating": 4.8
+      },
+      {
+      "name": "Shepherd's Pie",
+      "ingredients": ["ground beef", "potatoes", "carrots", "peas", "onions"],
+      "cooking_method": "baking",
+      "rating": 4.4
+      },
+      {
+         "name": "Lobster Mac and Cheese",
+         "ingredients": ["lobster", "pasta", "cheddar cheese", "Gruyere cheese", "breadcrumbs"],
+         "cooking_method": "baking",
+         "rating": 4.6
+         }
+      ]
+      },
+      
+      {
+      "id": 3,
+      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_name": "Ina Garten",
+      "years_of_experience": 20,
+      "number_of_recipes": 100,
+      "likes": 6000,
+      "description": "Ina Garten is an American author and host of the cooking show 'Barefoot Contessa'. She is known for her simple and elegant approach to cooking and her emphasis on using fresh, seasonal ingredients.",
+      "recipes": [
+      {
+      "name": "Lobster Mac and Cheese",
+      "ingredients": ["lobster", "pasta", "cheddar cheese", "Gruyere cheese", "breadcrumbs"],
+      "cooking_method": "baking",
+      "rating": 4.6
+      },
+      {
+      "name": "Roast Chicken",
+      "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+      "cooking_method": "roasting",
+      "rating": 4.9
+      },
+      {
+         "name": "Beef Bourguignon",
+         "ingredients": ["beef", "red wine", "onions", "carrots", "mushrooms"],
+         "cooking_method": "braising",
+         "rating": 4.5
+         }
+      ]
+      },
+      {
+         "id": 4,
+         "chef_picture": "https://example.com/chef1.jpg",
+         "chef_name": "Julia Child",
+         "years_of_experience": 30,
+         "number_of_recipes": 200,
+         "likes": 5000,
+         "description": "Julia Child was an American chef, author, and television personality. She is recognized for bringing French cuisine to the American public with her cookbook 'Mastering the Art of French Cooking' and her TV show 'The French Chef'.",
+         "recipes": [
+         {
+         "name": "Beef Bourguignon",
+         "ingredients": ["beef", "red wine", "onions", "carrots", "mushrooms"],
+         "cooking_method": "braising",
+         "rating": 4.5
+         },
+         {
+         "name": "Coq au Vin",
+         "ingredients": ["chicken", "red wine", "bacon", "onions", "carrots"],
+         "cooking_method": "braising",
+         "rating": 4.7
+         },
+         {
+            "name": "Roast Chicken",
+            "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+            "cooking_method": "roasting",
+            "rating": 4.9
+            }
+         ]
+         },
+         
+         {
+         "id": 5,
+         "chef_picture": "https://example.com/chef2.jpg",
+         "chef_name": "Gordon Ramsay",
+         "years_of_experience": 25,
+         "number_of_recipes": 150,
+         "likes": 8000,
+         "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has been awarded a total of 16 Michelin stars throughout his career and is known for his fiery personality on TV shows such as 'Hell's Kitchen' and 'MasterChef'.",
+         "recipes": [
+         {
+         "name": "Beef Wellington",
+         "ingredients": ["beef tenderloin", "mushrooms", "puff pastry", "prosciutto", "egg wash"],
+         "cooking_method": "baking",
+         "rating": 4.8
+         },
+         {
+         "name": "Shepherd's Pie",
+         "ingredients": ["ground beef", "potatoes", "carrots", "peas", "onions"],
+         "cooking_method": "baking",
+         "rating": 4.4
+         },
+         {
+            "name": "Coq au Vin",
+            "ingredients": ["chicken", "red wine", "bacon", "onions", "carrots"],
+            "cooking_method": "braising",
+            "rating": 4.7
+            }
+         ]
+         },
+         
+         {
+         "id": 6,
+         "chef_picture": "https://example.com/chef3.jpg",
+         "chef_name": "Ina Garten",
+         "years_of_experience": 20,
+         "number_of_recipes": 100,
+         "likes": 6000,
+         "description": "Ina Garten is an American author and host of the cooking show 'Barefoot Contessa'. She is known for her simple and elegant approach to cooking and her emphasis on using fresh, seasonal ingredients.",
+         "recipes": [
+         {
+         "name": "Lobster Mac and Cheese",
+         "ingredients": ["lobster", "pasta", "cheddar cheese", "Gruyere cheese", "breadcrumbs"],
+         "cooking_method": "baking",
+         "rating": 4.6
+         },
+         {
+         "name": "Roast Chicken",
+         "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+         "cooking_method": "roasting",
+         "rating": 4.9
+         },
+         {
+            "name": "Shepherd's Pie",
+            "ingredients": ["ground beef", "potatoes", "carrots", "peas", "onions"],
+            "cooking_method": "baking",
+            "rating": 4.4
+            }
+
+         ]
+         }
+   ]
