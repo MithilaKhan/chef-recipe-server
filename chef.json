@@ -30,7 +30,7 @@
             "rating": "4.8"
         },
       {
-         "name": "Vaja Mach",
+         "recipe_name": "Vaja Mach",
          "ingredients": ["500g telapiya , vegetable oil , to Glaze Flour , Dash Salt"],
          "cooking_method": "Wash the fish under the cold tap.Roll in the flour and deep fry in oil until crispy.Lay  on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon.",
          "rating": 4.8
@@ -48,19 +48,19 @@
       "description": "Chef Sanjib is a renowned chef in Bangladesh, famous for his fusion cooking style that combines traditional Bengali flavors with international culinary techniques.",
       "recipes": [
       {
-      "name": "Rasmalai",
+      "recipe_name": "Rasmalai",
       "ingredients": ["Milk, lemon juice, sugar, water, and cardamom."],
       "cooking_method": "baking",
       "rating": 4.8
       },
       {
-      "name": "Shepherd's Pie",
+      "recipe_name": "Shepherd's Pie",
       "ingredients": ["ground beef", "potatoes", "carrots", "peas", "onions"],
       "cooking_method": "Boil milk, curdle with lemon juice, strain, form into small balls, boil in sugar syrup with cardamom and water.",
       "rating": 4.4
       },
       {
-         "name": "Buna Khichuri",
+         "recipe_name": "Buna Khichuri",
          "ingredients": ["Rice, Lentils, Onion, Ginger, Cumin, Turmeric, Salt, Water"],
          "cooking_method": "Cook all ingredients together in a pressure cooker until soft and mushy, then temper with fried onions and ghee.",
          "rating": 4.6
@@ -78,19 +78,19 @@
       "description": "Chef Shawkat Osman is a renowned Bangladeshi chef who has made a name for himself through his innovative cooking techniques and unique flavor combinations. He has worked in some of the most prestigious restaurants in Bangladesh ",
       "recipes": [
          {
-            "name": "Buna Khichuri",
+            "recipe_name": "Buna Khichuri",
             "ingredients": ["Rice, Lentils, Onion, Ginger, Cumin, Turmeric, Salt, Water"],
             "cooking_method": "Cook all ingredients together in a pressure cooker until soft and mushy, then temper with fried onions and ghee.",
             "rating": 4.6
             },
       {
-      "name": "Roast Chicken",
+      "recipe_name": "Roast Chicken",
       "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
       "cooking_method": "roasting",
       "rating": 4.9
       },
       {
-         "name": "Shepherd's Pie",
+         "recipe_name": "Shepherd's Pie",
          "ingredients": ["ground beef", "potatoes", "carrots", "peas", "onions"],
          "cooking_method": "Boil milk, curdle with lemon juice, strain, form into small balls, boil in sugar syrup with cardamom and water.",
          "rating": 4.4
@@ -107,19 +107,19 @@
          "description": "Chef Tommy Miah is a household name in Bangladesh and is considered one of the pioneers of Bangladeshi cuisine. He has authored several cookbooks and has also appeared on various TV shows, spreading awareness about Bangladeshi cuisine around the world.",
          "recipes": [
             {
-               "name": "Roast Chicken",
+               "recipe_name": "Roast Chicken",
                "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
                "cooking_method": "roasting",
                "rating": 4.9
                },
                {
-                  "name": "Buna Khichuri",
+                  "recipe_name": "Buna Khichuri",
                   "ingredients": ["Rice, Lentils, Onion, Ginger, Cumin, Turmeric, Salt, Water"],
                   "cooking_method": "Cook all ingredients together in a pressure cooker until soft and mushy, then temper with fried onions and ghee.",
                   "rating": 4.6
                   },
                   {
-                     "name": "Rasmalai",
+                     "recipe_name": "Rasmalai",
                      "ingredients": ["Milk, lemon juice, sugar, water, and cardamom."],
                      "cooking_method": "baking",
                      "rating": 4.8
@@ -137,19 +137,19 @@
          "description": "Chef Tony Khan is a renowned chef in Bangladesh who is known for his expertise in traditional Bengali cuisine. He has been in the industry for over 20 years and has worked in some of the top restaurants in the country. ",
          "recipes": [
             {
-               "name": "Roast Chicken",
+               "recipe_name": "Roast Chicken",
                "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
                "cooking_method": "roasting",
                "rating": 4.9
                },
                {
-                  "name": "Buna Khichuri",
+                  "recipe_name": "Buna Khichuri",
                   "ingredients": ["Rice, Lentils, Onion, Ginger, Cumin, Turmeric, Salt, Water"],
                   "cooking_method": "Cook all ingredients together in a pressure cooker until soft and mushy, then temper with fried onions and ghee.",
                   "rating": 4.6
                   },
                   {
-                     "name": "Rasmalai",
+                     "recipe_name": "Rasmalai",
                      "ingredients": ["Milk, lemon juice, sugar, water, and cardamom."],
                      "cooking_method": "baking",
                      "rating": 4.8
@@ -188,7 +188,7 @@
                "rating": "4.8"
            },
          {
-            "name": "Vaja Mach",
+            "recipe_name": "Vaja Mach",
             "ingredients": ["500g telapiya , vegetable oil , to Glaze Flour , Dash Salt"],
             "cooking_method": "Wash the fish under the cold tap.Roll in the flour and deep fry in oil until crispy.Lay  on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon.",
             "rating": 4.8
