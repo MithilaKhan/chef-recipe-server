@@ -10,28 +10,21 @@
       "recipes": [
          {
             "recipe_name": "Chingri Malaikari",
-            "ingredients": ["Prawns", "Coconut milk", "Green chili", "Onion", "Garlic"],
+            "ingredients": ["Prawns , Coconut milk, Green chili , Onion, Garlic"],
             "cooking_method": "1. Heat oil in a pan and fry onion and garlic until golden brown. \n2. Add green chili, prawns, and salt. Cook for 5-6 minutes. \n3. Pour coconut milk and simmer for another 5-7 minutes. \n4. Serve hot with rice.",
             "rating": 4.5
          }
          ,
          {
             "recipe_name": "Shorshe Ilish",
-            "ingredients": [
-               "500g Hilsa fish",
-               " mustard paste",
-               "turmeric powder",
-               " red chilli",
-               " salt",
-               " green chillies, chopped",
-               " mustard oil"
+            "ingredients": [ "500g  Ilish, Shorshe,  red chilli ,  vegetable oil , to Glaze Flour , Dash Salt"
            ],
             "cooking_method": "1. Marinate Hilsa fish with turmeric and salt. 2. Fry the fish in oil until golden brown. 3. In a separate pan, heat mustard oil and add black cumin seeds and green chilies. 4. Add the mustard paste and stir for a minute. 5. Add water and salt to taste. 6. Add the fried fish to the mustard gravy and cook for another 5 minutes. Serve hot with steamed rice.",
             "rating": "4.8"
         },
       {
          "recipe_name": "Vaja Mach",
-         "ingredients": ["500g telapiya , vegetable oil , to Glaze Flour , Dash Salt"],
+         "ingredients": ["500g telapiya ,  red chilli ,  vegetable oil , to Glaze Flour , Dash Salt"],
          "cooking_method": "Wash the fish under the cold tap.Roll in the flour and deep fry in oil until crispy.Lay  on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon.",
          "rating": 4.8
          }
@@ -55,7 +48,7 @@
       },
       {
       "recipe_name": "Shepherd's Pie",
-      "ingredients": ["ground beef", "potatoes", "carrots", "peas", "onions"],
+      "ingredients": ["ground beef , potatoes, carrots, peas, onions"],
       "cooking_method": "Boil milk, curdle with lemon juice, strain, form into small balls, boil in sugar syrup with cardamom and water.",
       "rating": 4.4
       },
@@ -85,13 +78,13 @@
             },
       {
       "recipe_name": "Roast Chicken",
-      "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+      "ingredients": ["whole chicken , lemon , garlic, thyme, butter"],
       "cooking_method": "roasting",
       "rating": 4.9
       },
       {
          "recipe_name": "Shepherd's Pie",
-         "ingredients": ["ground beef", "potatoes", "carrots", "peas", "onions"],
+         "ingredients": ["ground beef , potatoes, carrots, peas, onions"],
          "cooking_method": "Boil milk, curdle with lemon juice, strain, form into small balls, boil in sugar syrup with cardamom and water.",
          "rating": 4.4
          }
@@ -108,7 +101,7 @@
          "recipes": [
             {
                "recipe_name": "Roast Chicken",
-               "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+               "ingredients": ["whole chicken, lemon, garlic, thyme, butter"],
                "cooking_method": "roasting",
                "rating": 4.9
                },
@@ -138,7 +131,7 @@
          "recipes": [
             {
                "recipe_name": "Roast Chicken",
-               "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+               "ingredients": ["whole chicken , lemon, garlic, thyme, butter"],
                "cooking_method": "roasting",
                "rating": 4.9
                },
@@ -168,22 +161,14 @@
          "recipes": [
             {
                "recipe_name": "Chingri Malaikari",
-               "ingredients": ["Prawns", "Coconut milk", "Green chili", "Onion", "Garlic"],
+               "ingredients": ["Prawns, Coconut milk, Green chili, Onion, Garlic"],
                "cooking_method": "1. Heat oil in a pan and fry onion and garlic until golden brown. \n2. Add green chili, prawns, and salt. Cook for 5-6 minutes. \n3. Pour coconut milk and simmer for another 5-7 minutes. \n4. Serve hot with rice.",
                "rating": 4.5
             }
             ,
             {
                "recipe_name": "Shorshe Ilish",
-               "ingredients": [
-                  "500g Hilsa fish",
-                  " mustard paste",
-                  "turmeric powder",
-                  " red chilli",
-                  " salt",
-                  " green chillies, chopped",
-                  " mustard oil"
-              ],
+               "ingredients": ["500g Hilsa fish,  mustard paste, turmeric powder, red chilli, salt,  green chillies, chopped,  mustard oil"],
                "cooking_method": "1. Marinate Hilsa fish with turmeric and salt. 2. Fry the fish in oil until golden brown. 3. In a separate pan, heat mustard oil and add black cumin seeds and green chilies. 4. Add the mustard paste and stir for a minute. 5. Add water and salt to taste. 6. Add the fried fish to the mustard gravy and cook for another 5 minutes. Serve hot with steamed rice.",
                "rating": "4.8"
            },
